@@ -7,7 +7,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/cat-workshop-api.git
+git clone https://github.com/overjakee/cat-workshop-api.git
 cd cat-workshop-api
 ```
 
