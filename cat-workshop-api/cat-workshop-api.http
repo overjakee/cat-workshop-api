@@ -1,0 +1,6 @@
+@cat_workshop_api_HostAddress = http://localhost:5220
+
+GET {{cat_workshop_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
